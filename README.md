@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Shehroz Ayaz</h1>
 <h3 align="center">A passionate JavaScript developer</h3>
 
-- 💬 Ask me about **JavaScript, NodeJs, AWS, Angular, Database, Backend, Systems Design**
+- 💬 Ask me about **JavaScript, NodeJs, AWS, Angular, Database, Backend, System Design**
 
 - 📫 How to reach me **shehrozayazz@gmail.com**
 
